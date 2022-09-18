@@ -1,7 +1,8 @@
 # 股價預測專案 
 
 此項專案透過文字探勘技術預測股價。<br>
-專案目標：告訴投資者，什麼時候看漲、什麼時候持平、什麼時候看跌。
+專案目標：告訴投資者，什麼時候看漲、什麼時候持平、什麼時候看跌。<br>
+主要程式碼，位於 `股價預測.ipynb` 檔案中。<br>
 
 **專案的核心技術： 取出「黃金交叉」與「死亡交叉」的關鍵字**
 * 分別找出訓練資料中所有「黃金交叉」與「死亡交叉」n天前的文件
@@ -22,8 +23,9 @@
 ![](/images/death_cross.png)
 
 # (Eng Ver.) Stock Price Prediction through Text Mining
-This project attemps to predict stock prices using text-mining techniques.
-Project Goal: Tell investors whether and when a stock price is likely to rise, hold, or fall.
+This project attemps to predict stock prices using text-mining techniques.<br>
+Project Goal: Tell investors whether and when a stock price is likely to rise, hold, or fall.<br>
+The main code is presented in `股價預測.ipynb`<br>
 
 **The core technique of this project: Extract keywords about Golden-Crosses and Death-Crosses**
 * Find the documents occurred within n days before Golden-Crosses and Death-Crosses
