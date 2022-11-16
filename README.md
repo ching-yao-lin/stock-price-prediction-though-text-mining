@@ -1,5 +1,7 @@
 # 股價預測專案 
 
+(English version is provided below)<br>
+<br>
 此項專案透過文字探勘技術預測股價。<br>
 專案目標：告訴投資者，什麼時候看漲、什麼時候持平、什麼時候看跌。<br>
 主要程式碼，位於 `股價預測.ipynb` 檔案中。<br>
