@@ -28,6 +28,7 @@
 This project attemps to predict stock prices using text-mining techniques.<br>
 Project Goal: Tell investors whether and when a stock price is likely to rise, hold, or fall.<br>
 The main code is presented in `股價預測.ipynb`<br>
+**Note that many parts of jupyter notebook is presented in Chinese because of the language and background context of the texts.**<br>
 
 **The core technique of this project: Extract keywords about Golden-Crosses and Death-Crosses**
 * Find the documents occurred within n days before Golden-Crosses and Death-Crosses
